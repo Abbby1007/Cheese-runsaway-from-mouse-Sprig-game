@@ -7,4 +7,4 @@ press "D" to move the Cheese right
 
 Goal: avoid the mice
 
-Play here: 
+Play here: https://sprig.hackclub.com/share/LaKJcx7TgTemUuPViSFB
